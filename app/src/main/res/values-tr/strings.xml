@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Getir App Clone</string>
+    <string name="example_address_title">🏠 Ev, </string>
+    <string name="example_address">Mansuroğlu Mh., No:15, Bayraklı, Izmir</string>
+    <string name="delivery">TVS</string>
+    <string name="estimated_time_example">5</string>
+    <string name="delivery_min">dakika</string>
+    <!-- Categories -->
+    <string name="discounts">İndirimler</string>
+    <string name="bakery">Fırından</string>
+    <string name="fruits_vegetables">Meyve &amp; Sebze</string>
+    <string name="groceries">Temel Gıda</string>
+    <string name="water_beverages">Su &amp; İçecek</string>
+    <string name="snacks">Atıştırmalık</string>
+    <string name="ice_cream">Dondurma</string>
+    <string name="dairy_products">Süt Ürünleri</string>
+    <string name="breakfast">Kahvaltılık</string>
+    <string name="home_care">Ev Bakım</string>
+    <string name="fitness_wellness">Fit &amp; Form</string>
+    <string name="ready_to_eat">Yiyecek</string>
+
+
+</resources>
