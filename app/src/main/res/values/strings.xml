@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Getir App Clone</string>
+    <string name="example_address_title">🏠 Home, </string>
+    <string name="example_address">Mansuroğlu Mh., No:15, Bayraklı, Izmir</string>
+    <string name="delivery">Delivery</string>
+    <string name="estimated_time_example">5</string>
+    <string name="delivery_min">min</string>
 </resources>
