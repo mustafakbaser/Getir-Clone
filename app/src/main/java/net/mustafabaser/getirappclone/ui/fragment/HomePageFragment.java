@@ -29,7 +29,9 @@ public class HomePageFragment extends Fragment {
         binding = FragmentHomePageBinding.inflate(inflater, container, false);
 
         binding.DeliveryAddressLayout.setOnClickListener(v -> {
-            Snackbar.make(v, "Estimated Arrival Time: 5 mins to your location", Snackbar.LENGTH_SHORT).show();
+            Snackbar.make(v, "Estimated arrival time: " + getResources()
+                    .getString(R.string.estimated_time_example) + " mins to your location", Snackbar.LENGTH_SHORT)
+                    .show();
         });
 
         // Campaings
@@ -50,18 +52,18 @@ public class HomePageFragment extends Fragment {
         // Categories
         binding.recyclerViewCategories.setLayoutManager(new StaggeredGridLayoutManager(3, StaggeredGridLayoutManager.HORIZONTAL));
         ArrayList<Categories> categoryList = new ArrayList<>();
-        Categories category1 = new Categories("İndirimler","category_1");
-        Categories category2 = new Categories("Fırından","category_2");
-        Categories category3 = new Categories("Meyve & Sebze","category_3");
-        Categories category4 = new Categories("Temel Gıda","category_4");
-        Categories category5 = new Categories("Su & İçecek","category_5");
-        Categories category6 = new Categories("Atıştırmalık","category_6");
-        Categories category7 = new Categories("Dondurma","category_7");
-        Categories category8 = new Categories("Süt Ürünleri","category_8");
-        Categories category9 = new Categories("Kahvaltılık","category_9");
-        Categories category10 = new Categories("Ev Bakım","category_10");
-        Categories category11 = new Categories("Fit & Form","category_11");
-        Categories category12 = new Categories("Yiyecek","category_12");
+        Categories category1 = new Categories(getResources().getString(R.string.discounts),"category_1");
+        Categories category2 = new Categories(getResources().getString(R.string.bakery),"category_2");
+        Categories category3 = new Categories(getResources().getString(R.string.fruits_vegetables),"category_3");
+        Categories category4 = new Categories(getResources().getString(R.string.groceries),"category_4");
+        Categories category5 = new Categories(getResources().getString(R.string.water_beverages),"category_5");
+        Categories category6 = new Categories(getResources().getString(R.string.snacks),"category_6");
+        Categories category7 = new Categories(getResources().getString(R.string.ice_cream),"category_7");
+        Categories category8 = new Categories(getResources().getString(R.string.dairy_products),"category_8");
+        Categories category9 = new Categories(getResources().getString(R.string.breakfast),"category_9");
+        Categories category10 = new Categories(getResources().getString(R.string.home_care),"category_10");
+        Categories category11 = new Categories(getResources().getString(R.string.fitness_wellness),"category_11");
+        Categories category12 = new Categories(getResources().getString(R.string.ready_to_eat),"category_12");
         categoryList.add(category1);
         categoryList.add(category2);
         categoryList.add(category3);

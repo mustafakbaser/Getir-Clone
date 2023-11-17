@@ -8,15 +8,15 @@
     <!-- Categories -->
     <string name="discounts">Discounts</string>
     <string name="bakery">Bakery</string>
-    <string name="fruits_vegetables">Fruits &amp; Vegetables</string>
+    <string name="fruits_vegetables">Fruits</string>
     <string name="groceries">Groceries</string>
-    <string name="water_beverages">Water &amp; Beverages</string>
+    <string name="water_beverages">Beverages</string>
     <string name="snacks">Snacks</string>
     <string name="ice_cream">Ice Cream</string>
     <string name="dairy_products">Dairy Products</string>
     <string name="breakfast">Breakfast</string>
     <string name="home_care">Home Care</string>
-    <string name="fitness_wellness">Fitness &amp; Wellness</string>
+    <string name="fitness_wellness">Fit</string>
     <string name="ready_to_eat">Ready-to-Eat</string>
 
 </resources>
