@@ -30,7 +30,6 @@ public class CampaingsAdapter extends RecyclerView.Adapter<CampaingsAdapter.Card
         }
     }
 
-
     @NonNull
     @Override
     public CardDesignHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {

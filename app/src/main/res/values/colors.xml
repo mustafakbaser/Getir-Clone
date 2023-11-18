@@ -5,4 +5,5 @@
     <color name="mainColor">#5c3cbb</color>
     <color name="mainColor2">#fbd30c</color>
     <color name="mainColor3">#5c3cbb</color>
+    <color name="bottomNavSecondary">#78909C</color>;
 </resources>
