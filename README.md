@@ -2,7 +2,7 @@
 
 This Android application, developed in Java, serves as a clone of the Getir app's main page. It replicates the design of the Getir app, offering a native Android experience.
 
-![Screenshot](https://github.com/mustafakbaser/Getir-Clone/blob/master/in-app-screenshot.png)
+![Screenshot](https://github.com/mustafakbaser/Getir-Clone/blob/master/in-app-screenshots-tr.png)
 
 ## Overview
 
@@ -30,6 +30,8 @@ Follow these simple steps to unleash the Getir Clone app on your local environme
 Explore the visual charm of the app through these captivating screenshots:
 
 ![Screenshot](https://github.com/mustafakbaser/Getir-Clone/blob/master/in-app-screenshot.png)
+
+![Screenshot](https://github.com/mustafakbaser/Getir-Clone/blob/master/in-app-screenshots-tr.png)
 
 ## Contributing 🤝
 Feel inspired to contribute? We welcome your insights, enhancements, and bug fixes. Fork the repository, make your magic happen, and submit a pull request!
