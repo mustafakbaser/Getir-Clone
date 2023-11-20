@@ -6,7 +6,7 @@ This Android application, developed in Java, serves as a clone of the Getir app'
 
 ## Overview
 
-This project aims to recreate the user interface and functionality of the Getir app's home page. The app provides a hands-on example of native Android development using Java.
+This project aims to recreate the user interface of the Getir app's home page. The app provides a hands-on example of native Android development using Java.
 
 ## Features
 
