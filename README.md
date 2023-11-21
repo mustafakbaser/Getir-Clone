@@ -37,7 +37,7 @@ Explore the visual charm of the app through these captivating screenshots:
 Feel inspired to contribute? We welcome your insights, enhancements, and bug fixes. Fork the repository, make your magic happen, and submit a pull request!
 
 ## License 📜
-This project is licensed under the [MIT License](https://github.com/mustafakbaser/Getir-Clone/blob/master/LICENSE).
+This project is licensed under the [MIT](https://opensource.org/license/mit/) LICENSE.
 
 ## Acknowledgments 🙌
 Special thanks to the Getir team for providing inspiration for this project.
