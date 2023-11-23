@@ -34,7 +34,7 @@ Explore the visual charm of the app through these captivating screenshots:
 ![Screenshot](https://github.com/mustafakbaser/Getir-Clone/blob/master/in-app-screenshots-tr.png)
 
 ## Contributing 🤝
-Feel inspired to contribute? We welcome your insights, enhancements, and bug fixes. Fork the repository, make your magic happen, and submit a pull request!
+Feel inspired to contribute? I welcome your insights, enhancements, and bug fixes. Fork the repository, make your magic happen, and submit a pull request!
 
 ## License 📜
 This project is licensed under the [MIT](https://opensource.org/license/mit/) LICENSE.
